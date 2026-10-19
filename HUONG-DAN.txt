@@ -1,0 +1,3 @@
+Giải nén rồi mở index.html. Hình và nhạc đã nằm trong chính tệp HTML, không cần thư mục phụ.
+Nhạc đã tăng âm lượng và tự phát khi trình duyệt cho phép. Nếu trình duyệt chặn, chạm nút bắt đầu một lần để nhạc và bông hoa cùng bắt đầu.
+Giữ hiệu ứng hoa lên màu, chuyển cảnh tự động và lời chúc hiện từng chữ.
